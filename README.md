@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello
 
-<!--
-**hifrens/hifrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Pinned Repositories
+
+- [**Decdata-Web**](https://github.com/hifrens/Decdata-Web): A web application project built with JavaScript.
+  
+## GitHub Stats
+
+- ![Followers](https://img.shields.io/github/followers/hifrens?label=Followers)
+- ![Stars](https://img.shields.io/github/stars/hifrens?label=Stars)
+
+## Let's Connect
+
+- 📧 Feel free to [email me](mailto:harveychandler235@gmail.com) for any collaboration or project inquiries.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/harveychandler).
