@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## My Projects
 
-### 🔥 Pinned Repositories
+### 📌 Pinned Repositories
 
 - [**Decdata-Web**](https://github.com/hifrens/Decdata-Web): A web application project built with JavaScript.
   
