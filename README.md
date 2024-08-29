@@ -5,8 +5,9 @@ Welcome to my GitHub profile!
 ## My Projects
 
 ### 📌 Pinned Repositories
-
 - [**Decdata-Web**](https://github.com/hifrens/Decdata-Web): A web application project built with JavaScript.
+### 🆕 Most recently worked on
+- [**hcJIT**](https://github.com/hifrens/hcJIT): Script to get AltJIT working through macOS.
   
 ## GitHub Stats
 
